@@ -235,6 +235,9 @@ footer .paragraph a {
         margin: 0;
     }
 
+    /* ----------------------
+        First Part 
+---------------------- */
     .banner-part {
         flex-direction: column;
     }
@@ -274,6 +277,9 @@ footer .paragraph a {
         height: 300px;
     }
 
+    /* ----------------------
+        second Part 
+---------------------- */
     .second-part {
         flex-direction: column;
     }
@@ -322,6 +328,11 @@ footer .paragraph a {
         border: 1px solid rgba(218, 216, 216, 0.225);
         filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
     }
+
+
+    /* ----------------------
+        Footer part
+---------------------- */
 
     footer {
         margin-top: 0px;
@@ -444,6 +455,10 @@ footer .paragraph a {
     .invisible .tablet-button {
         visibility: visible;
     }
+
+    /* ----------------------
+        Footer part
+---------------------- */
 
     footer div {
         padding: 0 5px;
